@@ -77,6 +77,8 @@ createApp(App).component('SvgIcon', SvgIcon).mount('#app')
 createApp(App).component('SvgIcon', SvgIcon).mount('#app')   
 v2直接Vue.component('svg-icon', SvgIcon)   
 
+转载自：https://blog.csdn.net/qq_28846389/article/details/117023902
+
 
 
 
